@@ -1,0 +1,138 @@
+Script started on Wed 30 Nov 2016 03:17:34 PM PST
+]0;qd6395@geometry:~/p3[qd6395@geometry p3]$ ./ha 134.154.190.157 14000
+Sequence Number = 5 Time = 15:19:18 Rejected No care_of_address yet
+Sequence Number = 6 Time = 15:19:18 Rejected No care_of_address yet
+Sequence Number = 7 Time = 15:19:19 Rejected No care_of_address yet
+Sequence Number = 8 Time = 15:19:20 Rejected No care_of_address yet
+Sequence Number = 9 Time = 15:19:21 Rejected No care_of_address yet
+Sequence Number = 10 Time = 15:19:23 Rejected No care_of_address yet
+Sequence Number = 11 Time = 15:19:24 Rejected No care_of_address yet
+Sequence Number = 12 Time = 15:19:25 Rejected No care_of_address yet
+ Registration packet received. Time = 15:19:26 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 13 Time = 15:19:26 Forwarded to 134.154.190.157/13000
+Sequence Number = 14 Time = 15:19:27 Forwarded to 134.154.190.157/13000
+Sequence Number = 15 Time = 15:19:28 Forwarded to 134.154.190.157/13000
+Sequence Number = 16 Time = 15:19:29 Forwarded to 134.154.190.157/13000
+Sequence Number = 17 Time = 15:19:30 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:19:31 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 18 Time = 15:19:31 Forwarded to 134.154.190.157/13001
+Sequence Number = 19 Time = 15:19:32 Forwarded to 134.154.190.157/13001
+Sequence Number = 20 Time = 15:19:33 Forwarded to 134.154.190.157/13001
+Sequence Number = 21 Time = 15:19:34 Forwarded to 134.154.190.157/13001
+Sequence Number = 22 Time = 15:19:35 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:19:36 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 23 Time = 15:19:36 Forwarded to 134.154.190.157/13000
+Sequence Number = 24 Time = 15:19:37 Forwarded to 134.154.190.157/13000
+Sequence Number = 25 Time = 15:19:38 Forwarded to 134.154.190.157/13000
+Sequence Number = 26 Time = 15:19:39 Forwarded to 134.154.190.157/13000
+Sequence Number = 27 Time = 15:19:40 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:19:41 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 28 Time = 15:19:41 Forwarded to 134.154.190.157/13001
+Sequence Number = 29 Time = 15:19:42 Forwarded to 134.154.190.157/13001
+Sequence Number = 30 Time = 15:19:43 Forwarded to 134.154.190.157/13001
+Sequence Number = 31 Time = 15:19:44 Forwarded to 134.154.190.157/13001
+Sequence Number = 32 Time = 15:19:45 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:19:46 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 33 Time = 15:19:46 Forwarded to 134.154.190.157/13000
+Sequence Number = 34 Time = 15:19:47 Forwarded to 134.154.190.157/13000
+Sequence Number = 35 Time = 15:19:48 Forwarded to 134.154.190.157/13000
+Sequence Number = 36 Time = 15:19:49 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:19:50 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 37 Time = 15:19:51 Forwarded to 134.154.190.157/13001
+Sequence Number = 38 Time = 15:19:51 Forwarded to 134.154.190.157/13001
+Sequence Number = 39 Time = 15:19:52 Forwarded to 134.154.190.157/13001
+Sequence Number = 40 Time = 15:19:53 Forwarded to 134.154.190.157/13001
+Sequence Number = 41 Time = 15:19:54 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:19:55 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 42 Time = 15:19:56 Forwarded to 134.154.190.157/13000
+Sequence Number = 43 Time = 15:19:56 Forwarded to 134.154.190.157/13000
+Sequence Number = 44 Time = 15:19:57 Forwarded to 134.154.190.157/13000
+Sequence Number = 45 Time = 15:19:58 Forwarded to 134.154.190.157/13000
+Sequence Number = 46 Time = 15:19:59 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:20:00 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 47 Time = 15:20:01 Forwarded to 134.154.190.157/13001
+Sequence Number = 48 Time = 15:20:01 Forwarded to 134.154.190.157/13001
+Sequence Number = 49 Time = 15:20:02 Forwarded to 134.154.190.157/13001
+Sequence Number = 50 Time = 15:20:03 Forwarded to 134.154.190.157/13001
+Sequence Number = 51 Time = 15:20:04 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:20:05 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 52 Time = 15:20:06 Forwarded to 134.154.190.157/13000
+Sequence Number = 53 Time = 15:20:06 Forwarded to 134.154.190.157/13000
+Sequence Number = 54 Time = 15:20:07 Forwarded to 134.154.190.157/13000
+Sequence Number = 55 Time = 15:20:08 Forwarded to 134.154.190.157/13000
+Sequence Number = 56 Time = 15:20:09 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:20:10 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 57 Time = 15:20:11 Forwarded to 134.154.190.157/13001
+Sequence Number = 58 Time = 15:20:11 Forwarded to 134.154.190.157/13001
+Sequence Number = 59 Time = 15:20:12 Forwarded to 134.154.190.157/13001
+Sequence Number = 60 Time = 15:20:13 Forwarded to 134.154.190.157/13001
+Sequence Number = 61 Time = 15:20:14 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:20:15 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 62 Time = 15:20:16 Forwarded to 134.154.190.157/13000
+Sequence Number = 63 Time = 15:20:16 Forwarded to 134.154.190.157/13000
+Sequence Number = 64 Time = 15:20:17 Forwarded to 134.154.190.157/13000
+Sequence Number = 65 Time = 15:20:18 Forwarded to 134.154.190.157/13000
+Sequence Number = 66 Time = 15:20:19 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:20:20 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 67 Time = 15:20:21 Forwarded to 134.154.190.157/13001
+Sequence Number = 68 Time = 15:20:21 Forwarded to 134.154.190.157/13001
+Sequence Number = 69 Time = 15:20:22 Forwarded to 134.154.190.157/13001
+Sequence Number = 70 Time = 15:20:23 Forwarded to 134.154.190.157/13001
+Sequence Number = 71 Time = 15:20:24 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:20:25 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 72 Time = 15:20:26 Forwarded to 134.154.190.157/13000
+Sequence Number = 73 Time = 15:20:26 Forwarded to 134.154.190.157/13000
+Sequence Number = 74 Time = 15:20:27 Forwarded to 134.154.190.157/13000
+Sequence Number = 75 Time = 15:20:28 Forwarded to 134.154.190.157/13000
+Sequence Number = 76 Time = 15:20:29 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:20:30 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 77 Time = 15:20:31 Forwarded to 134.154.190.157/13001
+Sequence Number = 78 Time = 15:20:31 Forwarded to 134.154.190.157/13001
+Sequence Number = 79 Time = 15:20:32 Forwarded to 134.154.190.157/13001
+Sequence Number = 80 Time = 15:20:33 Forwarded to 134.154.190.157/13001
+Sequence Number = 81 Time = 15:20:34 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:20:35 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 82 Time = 15:20:36 Forwarded to 134.154.190.157/13000
+Sequence Number = 83 Time = 15:20:37 Forwarded to 134.154.190.157/13000
+Sequence Number = 84 Time = 15:20:38 Forwarded to 134.154.190.157/13000
+Sequence Number = 85 Time = 15:20:39 Forwarded to 134.154.190.157/13000
+Sequence Number = 86 Time = 15:20:40 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:20:41 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 87 Time = 15:20:41 Forwarded to 134.154.190.157/13001
+Sequence Number = 88 Time = 15:20:42 Forwarded to 134.154.190.157/13001
+Sequence Number = 89 Time = 15:20:43 Forwarded to 134.154.190.157/13001
+Sequence Number = 90 Time = 15:20:44 Forwarded to 134.154.190.157/13001
+Sequence Number = 91 Time = 15:20:45 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:20:46 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 92 Time = 15:20:46 Forwarded to 134.154.190.157/13000
+Sequence Number = 93 Time = 15:20:47 Forwarded to 134.154.190.157/13000
+Sequence Number = 94 Time = 15:20:48 Forwarded to 134.154.190.157/13000
+Sequence Number = 95 Time = 15:20:49 Forwarded to 134.154.190.157/13000
+Sequence Number = 96 Time = 15:20:50 Forwarded to 134.154.190.157/13000
+ Registration packet received. Time = 15:20:51 Changing care_of_address to 134.154.190.157/13001
+Sequence Number = 97 Time = 15:20:51 Forwarded to 134.154.190.157/13001
+Sequence Number = 98 Time = 15:20:52 Forwarded to 134.154.190.157/13001
+Sequence Number = 99 Time = 15:20:53 Forwarded to 134.154.190.157/13001
+Sequence Number = 100 Time = 15:20:54 Forwarded to 134.154.190.157/13001
+Sequence Number = 101 Time = 15:20:55 Forwarded to 134.154.190.157/13001
+ Registration packet received. Time = 15:20:56 Changing care_of_address to 134.154.190.157/13000
+Sequence Number = 102 Time = 15:20:56 Forwarded to 134.154.190.157/13000
+Sequence Number = 103 Time = 15:20:57 Forwarded to 134.154.190.157/13000
+Sequence Number = 104 Time = 15:20:58 Forwarded to 134.154.190.157/13000
+Sequence Number = 105 Time = 15:20:59 Forwarded to 134.154.190.157/13000
+Sequence Number = 106 Time = 15:21:00 Forwarded to 134.154.190.157/13000
+Sequence Number = 107 Time = 15:21:01 Forwarded to 134.154.190.157/13000
+Sequence Number = 108 Time = 15:21:02 Forwarded to 134.154.190.157/13000
+Sequence Number = 109 Time = 15:21:03 Forwarded to 134.154.190.157/13000
+Sequence Number = 110 Time = 15:21:04 Forwarded to 134.154.190.157/13000
+Sequence Number = 111 Time = 15:21:05 Forwarded to 134.154.190.157/13000
+Sequence Number = 112 Time = 15:21:06 Forwarded to 134.154.190.157/13000
+Sequence Number = 113 Time = 15:21:07 Forwarded to 134.154.190.157/13000
+Sequence Number = 114 Time = 15:21:08 Forwarded to 134.154.190.157/13000
+Sequence Number = 115 Time = 15:21:09 Forwarded to 134.154.190.157/13000
+Sequence Number = 116 Time = 15:21:10 Forwarded to 134.154.190.157/13000
+
+]0;qd6395@geometry:~/p3[qd6395@geometry p3]$ exit
+exit
+
+Script done on Wed 30 Nov 2016 03:21:24 PM PST

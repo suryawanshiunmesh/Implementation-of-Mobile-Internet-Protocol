@@ -1,0 +1,119 @@
+Script started on Wed 30 Nov 2016 03:17:39 PM PST
+]0;qd6395@algebra:~/p3[qd6395@algebra p3]$ ./mn 1300[K[K[K4000 134.154.190.160 134.143.190.157 13000 2
+Registration sent.  Time = 15:19:27  New care-of address = 134.143.190.157/13000
+Sequence Number = 13 Time = 15:19:27 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 14 Time = 15:19:28 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 15 Time = 15:19:30 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 16 Time = 15:19:31 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 17 Time = 15:19:31 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:19:32  New care-of address = 134.143.190.157/13001
+Sequence Number = 18 Time = 15:19:32 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 19 Time = 15:19:34 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 20 Time = 15:19:35 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 21 Time = 15:19:35 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:19:37  New care-of address = 134.143.190.157/13000
+Sequence Number = 22 Time = 15:19:37 FA = 134.154.190.157/13001 Rejected
+Sequence Number = 23 Time = 15:19:38 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 24 Time = 15:19:39 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 25 Time = 15:19:40 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 26 Time = 15:19:41 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:19:42  New care-of address = 134.143.190.157/13001
+Sequence Number = 27 Time = 15:19:42 FA = 134.154.190.157/13000 Rejected
+Sequence Number = 28 Time = 15:19:43 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 29 Time = 15:19:44 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 30 Time = 15:19:45 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 31 Time = 15:19:46 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:19:47  New care-of address = 134.143.190.157/13000
+Sequence Number = 32 Time = 15:19:47 FA = 134.154.190.157/13001 Rejected
+Sequence Number = 33 Time = 15:19:48 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 34 Time = 15:19:49 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 35 Time = 15:19:50 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 36 Time = 15:19:51 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:19:52  New care-of address = 134.143.190.157/13001
+Sequence Number = 37 Time = 15:19:52 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 38 Time = 15:19:53 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 39 Time = 15:19:54 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 40 Time = 15:19:55 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 41 Time = 15:19:56 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:19:57  New care-of address = 134.143.190.157/13000
+Sequence Number = 42 Time = 15:19:57 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 43 Time = 15:19:58 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 44 Time = 15:19:59 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 45 Time = 15:20:00 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 46 Time = 15:20:01 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:20:02  New care-of address = 134.143.190.157/13001
+Sequence Number = 47 Time = 15:20:02 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 48 Time = 15:20:03 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 49 Time = 15:20:04 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 50 Time = 15:20:05 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 51 Time = 15:20:06 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:20:07  New care-of address = 134.143.190.157/13000
+Sequence Number = 52 Time = 15:20:07 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 53 Time = 15:20:08 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 54 Time = 15:20:09 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 55 Time = 15:20:10 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 56 Time = 15:20:11 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:20:12  New care-of address = 134.143.190.157/13001
+Sequence Number = 57 Time = 15:20:12 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 58 Time = 15:20:13 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 59 Time = 15:20:14 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 60 Time = 15:20:15 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 61 Time = 15:20:16 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:20:17  New care-of address = 134.143.190.157/13000
+Sequence Number = 62 Time = 15:20:17 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 63 Time = 15:20:18 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 64 Time = 15:20:19 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 65 Time = 15:20:20 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 66 Time = 15:20:21 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:20:22  New care-of address = 134.143.190.157/13001
+Sequence Number = 67 Time = 15:20:22 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 68 Time = 15:20:23 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 69 Time = 15:20:24 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 70 Time = 15:20:25 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 71 Time = 15:20:26 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:20:27  New care-of address = 134.143.190.157/13000
+Sequence Number = 72 Time = 15:20:27 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 73 Time = 15:20:28 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 74 Time = 15:20:29 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 75 Time = 15:20:30 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 76 Time = 15:20:31 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:20:32  New care-of address = 134.143.190.157/13001
+Sequence Number = 77 Time = 15:20:32 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 78 Time = 15:20:33 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 79 Time = 15:20:34 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 80 Time = 15:20:35 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 81 Time = 15:20:36 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:20:37  New care-of address = 134.143.190.157/13000
+Sequence Number = 82 Time = 15:20:37 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 83 Time = 15:20:38 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 84 Time = 15:20:39 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 85 Time = 15:20:40 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 86 Time = 15:20:41 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:20:42  New care-of address = 134.143.190.157/13001
+Sequence Number = 87 Time = 15:20:42 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 88 Time = 15:20:43 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 89 Time = 15:20:44 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 90 Time = 15:20:45 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 91 Time = 15:20:46 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:20:47  New care-of address = 134.143.190.157/13000
+Sequence Number = 92 Time = 15:20:47 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 93 Time = 15:20:48 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 94 Time = 15:20:50 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 95 Time = 15:20:51 FA = 134.154.190.157/13000 Accepted
+Registration sent.  Time = 15:20:52  New care-of address = 134.143.190.157/13001
+Sequence Number = 96 Time = 15:20:52 FA = 134.154.190.157/13000 Rejected
+Sequence Number = 97 Time = 15:20:52 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 98 Time = 15:20:53 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 99 Time = 15:20:54 FA = 134.154.190.157/13001 Accepted
+Sequence Number = 100 Time = 15:20:56 FA = 134.154.190.157/13001 Accepted
+Registration sent.  Time = 15:20:57  New care-of address = 134.143.190.157/13000
+Sequence Number = 101 Time = 15:20:57 FA = 134.154.190.157/13001 Rejected
+Sequence Number = 102 Time = 15:20:58 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 103 Time = 15:20:59 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 104 Time = 15:21:00 FA = 134.154.190.157/13000 Accepted
+Sequence Number = 105 Time = 15:21:01 FA = 134.154.190.157/13000 Accepted
+ 100 Second Completed..Terminating the Program..
+]0;qd6395@algebra:~/p3[qd6395@algebra p3]$ exit
+exit
+
+Script done on Wed 30 Nov 2016 03:21:29 PM PST
